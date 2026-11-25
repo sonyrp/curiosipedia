@@ -124,6 +124,52 @@ vea hacia dónde va la app.
 - Hay un botón para borrar el avance y empezar de cero, con confirmación
   dentro de la app.
 
+## 5b. Dirección visual: "Cuaderno de a bordo" (pedido: muy creativo)
+
+Esta dirección la propone Claude. El usuario pidió que el diseño fuera muy
+creativo.
+
+**La idea:** el niño es el **cadete** de una pequeña nave que explora el
+conocimiento. La app es su cuaderno de a bordo. No se parece a una enciclopedia
+de vidrio y menús, sino a una aventura que él mismo va anotando.
+
+- **Copiloto:** **Chispa**, un pequeño robot sonda original. Aparece en un rincón
+  y cuenta los "¿Sabías que?" en un globo de diálogo. Al acertar en el quiz
+  celebra con una animación corta, y al fallar anima a seguir intentando.
+- **Portada:** un tablero de mando de la nave, con cuatro grandes palancas o
+  botones: Enciclopedia, Programar, Animar y Hoy. Las áreas que todavía no están
+  aparecen como "En construcción en el taller", con Chispa trabajando con una
+  llave inglesa.
+- **Las estrellas dibujan una constelación:** cada estrella ganada enciende un
+  punto en el cielo de la portada. Al completar un grupo de puntos se forma una
+  **constelación inventada** con nombre propio, por ejemplo "El Cohete" o
+  "La Ballena de Chispa". El avance se ve como un cielo que se va llenando, no
+  como una barra.
+- **Mapa del Sistema Solar:** la sección El espacio no es una cuadrícula de
+  tarjetas, sino un **mapa con órbitas** que se recorre deslizando el dedo hacia
+  los lados. Se toca un planeta y la nave "viaja" hasta él con una animación
+  corta. Los planetas visitados quedan marcados con una banderita.
+- **"¿Qué tan grande?":** en cada planeta hay un botón que lo pone al lado de la
+  Tierra a escala, para comparar tamaños. Del Sol solo cabe un pedazo de borde
+  en la pantalla, y eso también enseña.
+- **El quiz como transmisión de radio:** las preguntas llegan como "mensajes de
+  la base". Al acertar suena un bip, el celular vibra un instante y se enciende
+  una estrella.
+- **Estilo de los dibujos:** papel recortado. Son figuras planas en capas, con
+  sombras suaves y una leve textura de papel, como un collage. Se distingue
+  claramente de Encarta y de las fotos de la NASA.
+- **Colores:** cielo azul índigo profundo, con los colores vivos de
+  `planetas.html`: amarillo `#FFD93D`, coral `#FF6B6B` y turquesa `#4ECDC4`.
+  Cada planeta tiene su color propio.
+- **Sonido:** bips cortos generados en el momento, sin archivos de audio. Un
+  botón los silencia, y la app recuerda esa elección.
+- **Moderación:**
+  - Si el celular tiene activado "reducir movimiento", las animaciones se
+    vuelven mínimas.
+  - Las animaciones duran menos de 1 segundo y no frenan la lectura.
+  - El texto siempre se ve sobre un fondo sólido, nunca sobre estrellas que se
+    mueven.
+
 ## 6. Contenido: cómo se asegura que sea correcto
 
 - **Claude** escribe los textos y comprueba cada dato con fuentes confiables:
