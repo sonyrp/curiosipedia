@@ -43,8 +43,9 @@ Fecha: 2026-11-25 · Estado: borrador para aprobar
 - Android con Chrome. Tiene que verse bien en una pantalla vertical de unos 360 a
   430 px de ancho y no romperse en una tableta.
 - Sin internet después de la primera carga.
-- Publicada en una dirección web con HTTPS para poder instalarse. Se propone
-  **GitHub Pages**, que es gratis. Necesita una cuenta de GitHub.
+- Publicada en una dirección web con HTTPS para poder instalarse. **Decidido por
+  el usuario:** repositorio **público** `curiosipedia` en la cuenta de GitHub
+  `sonyrp`, publicado con GitHub Pages en `https://sonyrp.github.io/curiosipedia/`.
 - Liviana: toda la app debe pesar **menos de 5 MB** para que se guarde rápido.
 - Todo el contenido en español, con letra y botones grandes, fáciles de tocar.
 
